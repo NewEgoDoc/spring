@@ -58,5 +58,7 @@ Security 용어
 7~10) Provider는 UserDetailsService에서 반환된 UserDetails와 클라이언트가 제공한 인증정보(Token)를 대조해서 이용자가 정당한 사용권한을 가지고 있는지 확인한다.
 그리고 SecurityContext에 저장한다.
 
+## JWT and SPRING SECURITY
+
 SPRING BATCH - 
 SPRING JDBC -
